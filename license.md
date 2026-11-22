@@ -233,4 +233,4 @@ simply how these tools work in practice.
 
 ---
 
-*get-warframe-tool · Updated 2026-11-21 · Shared under the MIT License*
+*get-warframe-tool · Updated 2026-11-22 · Shared under the MIT License*
